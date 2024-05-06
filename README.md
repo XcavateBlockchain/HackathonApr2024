@@ -6,3 +6,6 @@ https://docs.google.com/presentation/d/1SjE34j670eGkql3AnHaASekRXosdhs0LUeXz0BQf
 
 # Document Link
 https://xcavate-1.gitbook.io/xcavate-docs/reaxdeal/introduction
+
+# Video Link
+https://www.youtube.com/watch?v=6Zskb7jF68g
